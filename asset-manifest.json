@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mysqltasks/static/css/main.e1602b16.css",
-    "main.js": "/mysqltasks/static/js/main.b7ac1629.js",
-    "static/js/787.cda612ba.chunk.js": "/mysqltasks/static/js/787.cda612ba.chunk.js",
-    "index.html": "/mysqltasks/index.html",
-    "main.e1602b16.css.map": "/mysqltasks/static/css/main.e1602b16.css.map",
-    "main.b7ac1629.js.map": "/mysqltasks/static/js/main.b7ac1629.js.map",
-    "787.cda612ba.chunk.js.map": "/mysqltasks/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/mysqltasks/frontend/static/css/main.e1602b16.css",
+    "main.js": "/mysqltasks/frontend/static/js/main.befb1b22.js",
+    "static/js/787.cda612ba.chunk.js": "/mysqltasks/frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/mysqltasks/frontend/index.html",
+    "main.e1602b16.css.map": "/mysqltasks/frontend/static/css/main.e1602b16.css.map",
+    "main.befb1b22.js.map": "/mysqltasks/frontend/static/js/main.befb1b22.js.map",
+    "787.cda612ba.chunk.js.map": "/mysqltasks/frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1602b16.css",
-    "static/js/main.b7ac1629.js"
+    "static/js/main.befb1b22.js"
   ]
 }
